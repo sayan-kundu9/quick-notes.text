@@ -1,1 +1,11 @@
+####################
+MOCKITO AND JUNIT
+####################
 
+https://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html
+https://examples.javacodegeeks.com/core-java/mockito/junit-mockito-example/
+https://automationrhapsody.com/mock-junit-tests-mockito-example/
+https://javacodehouse.com/blog/mockito-tutorial/
+https://examples.javacodegeeks.com/core-java/mockito/mockito-spy-example/
+https://examples.javacodegeeks.com/core-java/mockito/mockito-tutorial-beginners/
+https://examples.javacodegeeks.com/core-java/mockito/test-driven-development-mockito/
